@@ -1,0 +1,342 @@
+[2022-11-21 03:46:15] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-21 03:46:15] [WARNING]: 将在 5秒 后继续. 
+[2022-11-21 03:46:20] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-11-21 03:46:40] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 03:46:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:46:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:46:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:46:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:46:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:54:20] [WARNING]: 警告: 配置文件内的QQ号 (3036199716) 与缓存内的QQ号 (3134215858) 不相同 
+[2022-11-21 03:54:20] [WARNING]: 1. 使用会话缓存继续. 
+[2022-11-21 03:54:20] [WARNING]: 2. 删除会话缓存并重启. 
+[2022-11-21 03:54:20] [WARNING]: 请选择: (5秒后自动选1) 
+[2022-11-21 03:54:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 03:54:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:54:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:54:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:54:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:54:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:54:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:54:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:54:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:54:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:54:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:54:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:55:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:56:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:56:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:56:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:56:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:56:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:56:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:56:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:56:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:56:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 03:56:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:05:05] [WARNING]: 警告: 配置文件内的QQ号 (3036199716) 与缓存内的QQ号 (3134215858) 不相同 
+[2022-11-21 04:05:05] [WARNING]: 1. 使用会话缓存继续. 
+[2022-11-21 04:05:05] [WARNING]: 2. 删除会话缓存并重启. 
+[2022-11-21 04:05:05] [WARNING]: 请选择: (5秒后自动选1) 
+[2022-11-21 04:05:11] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 04:05:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:05:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:05:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:05:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:05:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:05:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:05:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:05:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:06:38] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 04:06:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:06:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:06:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:06:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:06:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:06:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:06:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245:onebot/v11/ws 时出现错误: parse "ws://127.0.0.1:53245:onebot/v11/ws": invalid port ":onebot" after host 
+[2022-11-21 04:07:57] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 04:22:59] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 04:23:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 04:23:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 04:23:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:07:53] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 07:07:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:07:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:08:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:09:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:02] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": dial tcp 54.169.195.247:443: connect: connection timed out 
+[2022-11-21 07:10:02] [ERROR]: Protocol -> test long message server response latency error: Get "https://ssl.htdata.qq.com": dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 07:10:02] [ERROR]: Protocol -> test long message server latency error: failed to connect to server during quality test: dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 07:10:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:04] [ERROR]: 错误: 长消息服务器延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 07:10:04] [ERROR]: 错误: 长消息服务器响应延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 07:10:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:10:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 07:11:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:01:58] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 08:05:55] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 08:08:04] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": dial tcp 54.169.195.247:443: connect: connection timed out 
+[2022-11-21 08:08:04] [ERROR]: Protocol -> test long message server response latency error: Get "https://ssl.htdata.qq.com": dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 08:08:04] [ERROR]: Protocol -> test long message server latency error: failed to connect to server during quality test: dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 08:08:06] [ERROR]: 错误: 长消息服务器延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 08:08:06] [ERROR]: 错误: 长消息服务器响应延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 08:10:58] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-11-21 08:12:42] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 08:13:51] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-11-21 08:13:59] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52336->127.0.0.1:53245: use of closed network connection 
+[2022-11-21 08:14:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:14:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:14:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:14:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:14:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:14:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:14:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:14:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:14:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:14:51] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": dial tcp 54.169.195.247:443: connect: connection timed out 
+[2022-11-21 08:14:51] [ERROR]: Protocol -> test long message server response latency error: Get "https://ssl.htdata.qq.com": dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 08:14:51] [ERROR]: Protocol -> test long message server latency error: failed to connect to server during quality test: dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 08:14:53] [ERROR]: 错误: 长消息服务器延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 08:14:53] [ERROR]: 错误: 长消息服务器响应延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 08:18:32] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 08:19:39] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-11-21 08:19:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52774->127.0.0.1:53245: use of closed network connection 
+[2022-11-21 08:19:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:19:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:19:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:19:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:19:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:20:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:20:41] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": dial tcp 54.169.195.247:443: connect: connection timed out 
+[2022-11-21 08:20:41] [ERROR]: Protocol -> test long message server response latency error: Get "https://ssl.htdata.qq.com": dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 08:20:41] [ERROR]: Protocol -> test long message server latency error: failed to connect to server during quality test: dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 08:20:43] [ERROR]: 错误: 长消息服务器延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 08:20:43] [ERROR]: 错误: 长消息服务器响应延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 08:33:24] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 08:35:33] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": dial tcp 54.169.195.247:443: connect: connection timed out 
+[2022-11-21 08:35:33] [ERROR]: Protocol -> test long message server response latency error: Get "https://ssl.htdata.qq.com": dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 08:35:33] [ERROR]: Protocol -> test long message server latency error: failed to connect to server during quality test: dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 08:35:35] [ERROR]: 错误: 长消息服务器延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 08:35:35] [ERROR]: 错误: 长消息服务器响应延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 08:35:58] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-11-21 08:36:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53748->127.0.0.1:53245: use of closed network connection 
+[2022-11-21 08:36:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:37:31] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-11-21 08:37:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53962->127.0.0.1:53245: use of closed network connection 
+[2022-11-21 08:37:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:37:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:37:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:37:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:37:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:37:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:37:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:38:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:42:15] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-11-21 08:42:21] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54092->127.0.0.1:53245: use of closed network connection 
+[2022-11-21 08:42:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:42:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:42:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:42:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:42:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:42:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:42:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:42:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:42:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:42:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:42:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:42:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:43:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:44:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:56:27] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 08:56:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:56:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:56:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:56:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:56:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:56:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:56:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:56:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:56:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:56:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:56:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:57:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:57:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:57:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:57:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:57:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:57:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 08:57:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:01:45] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 09:03:54] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": dial tcp 54.169.195.247:443: connect: connection timed out 
+[2022-11-21 09:03:54] [ERROR]: Protocol -> test long message server response latency error: Get "https://ssl.htdata.qq.com": dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 09:03:54] [ERROR]: Protocol -> test long message server latency error: failed to connect to server during quality test: dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 09:03:56] [ERROR]: 错误: 长消息服务器延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 09:03:56] [ERROR]: 错误: 长消息服务器响应延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 09:06:42] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-11-21 09:06:46] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:55732->127.0.0.1:53245: use of closed network connection 
+[2022-11-21 09:06:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:06:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:06:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:06:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:07:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:08:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:08:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:08:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:08:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:08:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:08:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:19:14] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 09:20:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-11-21 09:20:26] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:56914->127.0.0.1:53245: use of closed network connection 
+[2022-11-21 09:20:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:20:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:20:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 09:20:52] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 09:23:01] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": dial tcp 54.169.195.247:443: connect: connection timed out 
+[2022-11-21 09:23:01] [ERROR]: Protocol -> test long message server latency error: failed to connect to server during quality test: dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 09:23:01] [ERROR]: Protocol -> test long message server response latency error: Get "https://ssl.htdata.qq.com": dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-21 09:23:03] [ERROR]: 错误: 长消息服务器延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 09:23:03] [ERROR]: 错误: 长消息服务器响应延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-21 15:19:02] [WARNING]: 警告: 非法 Forward node 将跳过. uin: 3134215858 name: 疫情信息 content count: 0 
+[2022-11-21 15:19:08] [WARNING]: 合并转发(群)消息发送失败: 账号可能被风控. 
+[2022-11-21 15:59:59] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-11-21 16:00:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:57050->127.0.0.1:53245: use of closed network connection 
+[2022-11-21 16:00:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 16:00:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 16:00:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 16:00:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 16:00:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 16:00:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:53245: connect: connection refused 
+[2022-11-21 21:30:30] [WARNING]: 合并转发(群)消息发送失败: 账号可能被风控. 

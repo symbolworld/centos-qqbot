@@ -1,0 +1,21 @@
+[2022-11-22 22:04:26] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 22:04:56] [WARNING]: 恢复会话失败: register error: Packet timed out , 尝试使用正常流程登录. 
+[2022-11-22 22:06:58] [FATAL]: 二维码过期 
+[2022-11-22 22:08:40] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 22:08:40] [WARNING]: 将在 5秒 后继续. 
+[2022-11-22 22:09:06] [FATAL]: 扫码被用户取消. 
+[2022-11-22 22:09:24] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 22:09:24] [WARNING]: 将在 5秒 后继续. 
+[2022-11-22 22:09:46] [FATAL]: 扫码被用户取消. 
+[2022-11-22 22:11:20] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 22:13:29] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": dial tcp 54.169.195.247:443: connect: connection timed out 
+[2022-11-22 22:13:29] [ERROR]: Protocol -> test long message server latency error: failed to connect to server during quality test: dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-22 22:13:29] [ERROR]: Protocol -> test long message server response latency error: Get "https://ssl.htdata.qq.com": dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-22 22:13:31] [ERROR]: 错误: 长消息服务器延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-22 22:13:31] [ERROR]: 错误: 长消息服务器响应延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-22 22:15:13] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 22:17:22] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": dial tcp 54.169.195.247:443: connect: connection timed out 
+[2022-11-22 22:17:22] [ERROR]: Protocol -> test long message server response latency error: Get "https://ssl.htdata.qq.com": dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-22 22:17:22] [ERROR]: Protocol -> test long message server latency error: failed to connect to server during quality test: dial tcp 0.0.0.1:443: connect: invalid argument 
+[2022-11-22 22:17:24] [ERROR]: 错误: 长消息服务器延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2022-11-22 22:17:24] [ERROR]: 错误: 长消息服务器响应延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 

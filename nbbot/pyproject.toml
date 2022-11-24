@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "nbbot"
+version = "0.1.0"
+description = "nbbot"
+authors = []
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7.3"
+nonebot2 = "^2.0.0-beta.1"
+
+[tool.poetry.dev-dependencies]
+nb-cli = "^0.6.0"
+
+[tool.nonebot]
+plugins = ["nonebot_plugin_remake", "nonebot_plugin_answersbook", "nonebot_plugin_covid19_news", "nonebot_plugin_today_in_history", "nonebot_plugin_oddtext", "nonebot_plugin_shindan", "nonebot_plugin_htmlrender", "nonebot_plugin_boardgame", "nonebot_plugin_moyu"]
+plugin_dirs = ["src/plugins"]
+
+[build-system]
+requires = ["poetry_core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
