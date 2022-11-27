@@ -13,5 +13,3 @@ async def search_book_handle(args: Message = CommandArg()):
     for i in range(len(books_website)):
         ret.append(str(books_webname[i] + '\n' + books_website[i] + '\n'))
     await search_book.send(Message(ret), at_sender=True)
-
-
